@@ -4,11 +4,11 @@ st.title("No‑Wait Customer Support Bot")
 
 st.subheader("Shop Owner: Paste your FAQ")
 faq_text = st.text_area(
-    ""
+    "Example: We are open from 9 AM to 9 PM.\nHaircut costs ₹150.\nParking is available behind the shop.\nClosed on Sundays."
 )
 
 st.subheader("Customer: Ask a question")
-question = st.text_input("Type your question")
+question = st.text_input("Type your question - \nExample: When are you open?")
 
 def find_answer(faq, question):
     faq_lines = faq.lower().split("\n")
