@@ -15,6 +15,10 @@ The bot answers **only from the given FAQ** and avoids incorrect answers.
 
 ---
 
+
+## To run, VISIT : https://teamwack-nowaitsupport.streamlit.app/
+
+
 ## 🚀 How to Run (Local)
 
 ### 1. Install Python (3.9+)
@@ -23,4 +27,6 @@ Download from: https://www.python.org/
 ### 2. Install dependencies
 ```bash
 pip install streamlit
+
+
 
