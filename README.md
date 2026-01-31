@@ -16,7 +16,7 @@ The bot answers **only from the given FAQ** and avoids incorrect answers.
 ---
 
 
-## To run, VISIT : https://teamwack-nowaitsupport.streamlit.app/
+## To VIEW, visit : https://teamwack-nowaitsupport.streamlit.app/
 
 
 ## 🚀 How to Run (Local)
