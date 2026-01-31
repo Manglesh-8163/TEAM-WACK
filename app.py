@@ -12,8 +12,7 @@ faq_text = st.text_area(
 st.subheader("Customer: Ask a question")
 # We use the 'value' parameter to pre-fill the input field
 question = st.text_input(
-    "Type your question:", 
-    value="When are you open?"
+    "Type your question: -----> \nExample: When are you open?"
 )
 
 def find_answer(faq, question):
