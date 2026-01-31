@@ -17,6 +17,7 @@ The bot answers **only from the given FAQ** and avoids incorrect answers.
 
 
 ## To VIEW, visit : https://teamwack-nowaitsupport.streamlit.app/
+## PPT : https://docs.google.com/presentation/d/1TIW8wB_6fbX1SAuNG65g5xeBfKc2qPkp5Rb1r2rFw3M/edit?usp=sharing
 
 
 ## 🚀 How to Run (Local)
