@@ -28,6 +28,7 @@ Download from: https://www.python.org/
 ### 2. Install dependencies
 ```bash
 pip install streamlit
+```
 
 
 
